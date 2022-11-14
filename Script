@@ -1,0 +1,3 @@
+on death:
+    if victim is player:
+        send victim title "&cUmarłeś!" with subtitle "&cNie podawaj się walcz dalej" for 7 seconds
